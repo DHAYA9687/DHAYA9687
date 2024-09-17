@@ -1,3 +1,4 @@
+![MasterHead](https://www.digitalsolutionservices.com/img/services/web%20development.gif)
 <h1 align="center">Hi 👋, I'm Dhaya S</h1>
 <h3 align="center">A passionate about Full Stack Developer 😊</h3>
 <img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="coding.img" width="400">
