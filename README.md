@@ -3,7 +3,10 @@
 <h3 align="center">A passionate about Full Stack Developer 😊</h3>
 <img align="right" src="https://cdn.filestackcontent.com/efbSR18hT5uRKuo0zoMA" alt="coding.img" width="400">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhaya9687&label=Profile%20views&color=0e75b6&style=flat" alt="dhaya9687" /> </p>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=dhaya9687&label=Profile%20views&color=0e75b6&style=flat" alt="dhaya9687" style="border-radius: 10px;" />
+</p>
+
 
 - 🔭 I’m currently working on **Devops**
 
