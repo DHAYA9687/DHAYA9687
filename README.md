@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://new-portfolio-two-mu.vercel.app/](https://new-portfolio-two-mu.vercel.app/)
 
-- 💬 Ask me about **MERN,GSAP,DOCKER,KUBERNETES**
+- 💬 Ask me about **MERN, GSAP, DOCKER, KUBERNETES**
 
 - 📫 How to reach me **sekarsekar5017@gmail.com**
 
