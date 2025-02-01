@@ -8,7 +8,7 @@
 </p>
 
 
-- 🔭 I’m currently working on **Devops**
+- 🔭 I’m currently working on **APP DEVELOPMENT**
 
 - 🌱 I’m currently learning **AWS**
 
